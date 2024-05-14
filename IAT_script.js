@@ -37,7 +37,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://www.dropbox.com/scl/fo/x3lagu1pguwv6642ia87h/AEo4h9aQi4twPr8H2XqwocE?rlkey=zwpcopcvelquz783eynrwun2h&dl=0'
+			image : 'https://github.com/yarmolinsky/limegreen/tree/main/images'
 		} 
 	});
 });
